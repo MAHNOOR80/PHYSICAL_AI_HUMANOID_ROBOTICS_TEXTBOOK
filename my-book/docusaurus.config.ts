@@ -87,7 +87,7 @@ const config: Config = {
           position: 'left',
           label: 'Textbook',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -100,12 +100,6 @@ const config: Config = {
       links: [
         {
           title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
         },
         {
           title: 'Community',
